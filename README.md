@@ -13,7 +13,7 @@ The plan for the project follows:
 6. Use Pickle to save and load the model
 7. Serve [churn model](https://github.com/rohanj98/customer-churn-prediction/blob/main/churn_serving.py) using Flask
 8. To manage python library dependencies, use `pipenv` file. 
-9. Use `docker` to manage OS dependencies.
+9. Use `dockerfile` to manage OS dependencies.
 
 A walkthrough notebook for the project can be found [here](https://github.com/rohanj98/customer-churn-prediction/blob/main/churn-prediction.ipynb)
 
